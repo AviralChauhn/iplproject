@@ -58,12 +58,3 @@ fs.writeFileSync(
   "./public/output/superOverEconomy.json",
   JSON.stringify(superOverEconomy(deliveries), null, 2)
 );
-// console.log(matchWonPerTeamPerYear(matches4));
-
-// console.log(extraRunsConceeded(Matches2, Deliveries2));
-// console.log(topEcoBowler(matches, deliveries));
-// console.log(wonTossWonMatch(matches2));
-// console.log(superOverEconomy(deliveries));
-// console.log(highestPOTM(match3));
-// console.log(strikeRate(matches, deliveries));
-// console.log(dismissedPlayer(deliveries));
